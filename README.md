@@ -2,10 +2,12 @@
 
 ### Other places to find me
 
-Email Addresses: parker_dunn@outlook.com | pgdunn@bu.edu
+Email Addresses: parker_dunn@outlook.com | pgdunn@bu.edu  
+
 (You may see pdunn91@gmail.com - this is a personal email that I may check infrequently at times)
 
-[Twitter](https://twitter.com/pdvnny_)
+[Twitter](https://twitter.com/pdvnny_)  
+
 [LinkedIn](https://www.linkedin.com/in/parker-g-dunn/)
 
 ### Quick Background

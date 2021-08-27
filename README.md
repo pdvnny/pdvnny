@@ -18,7 +18,7 @@ My degree at BU will be a little longer than a normal Master's program. Until 20
 
 ### Interests
 
-I feel like I am still just beginning to uncover what I want to work on in the long-term because there is still quite a bit for me to learn modern work and research.
+I feel like I am still just beginning to uncover what I want to work on in the long-term because there is still lots to learn about modern analytics and the future of the field.
 
 That being said, I decided to start at BU because I was enthralled with the modern uses of data. I noticed this in particular through sports analytics since I was an athlete when I was younger and continue to follow many professional sports.
 

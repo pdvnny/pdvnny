@@ -19,14 +19,14 @@ My degree at BU will be a little longer than a normal Master's program. Until 20
 ### Links to repos
 
 __Personal Projects__
-* [Pet Classification Machine Learning Challenge](https://github.com/pdvnny/pdvnny)
-* [Sudoku Game in Python - In Development](https://github.com/pdvnny/pdvnny)
+* [Pet Classification Machine Learning Challenge](https://github.com/pdvnny/pdvnny) -- Link coming soon
+* [Sudoku Game in Python - In Development](https://github.com/pdvnny/pdvnny)  -- Link coming soon
 
 
 Algorithms and Data Structures Repos
 * [Data Structures and Algorithms from EC330](https://github.com/pdvnny/EC330-Algos-DataStructures-Cpp)
 * [Data Structures/Algos Developed on my Own](https://github.com/pdvnny/DataStructures-Algorithms)
-* [Trie Data Structure for Pattern Matching]
+  * [Trie Data Structure for Pattern Matching](https://github.com/pdvnny/DataStructures-Algorithms/tree/main/TrieStructure-PatternMatching)
 
 
 Repos for a class on Intro to Software Eng. (EC327)

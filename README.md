@@ -25,6 +25,7 @@ __Personal Projects__
 
 Algorithms and Data Structures Repos
 * [Data Structures and Algorithms from EC330](https://github.com/pdvnny/EC330-Algos-DataStructures-Cpp)
+* [Data Structures/Algos Developed on my Own](https://github.com/pdvnny/DataStructures-Algorithms)
 * [Trie Data Structure for Pattern Matching]
 
 

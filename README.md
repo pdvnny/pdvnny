@@ -36,13 +36,21 @@ My current classes at BU focus on probability and statistics (MATLAB), more fund
 
 ### Links to repos
 
-*more repos to come*
+__Personal Projects__
+* [Pet Classification Machine Learning Challenge](https://github.com/pdvnny/pdvnny)
+* [Sudoku Game in Python - In Development](https://github.com/pdvnny/pdvnny)
+
+
+Algorithms and Data Structures Repos
+* [EC330 - repo used to track files used for my assignments](https://github.com/pdvnny/pdvnny)
+* 
 
 
 Repos for a class on Intro to Software Eng. (EC327)
 * [blokus game](https://github.com/pdvnny/EC327_HW4_blokus)
 * [SFML graphics clock](https://github.com/pdvnny/EC327-HW2-Adjustable-Clock)
 * [Final Project - create application with group](https://github.com/brianhmj/BU_EC327_FinalProject)
+
 
 
 <!--

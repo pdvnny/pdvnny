@@ -42,7 +42,7 @@ __Personal Projects__
 
 
 Algorithms and Data Structures Repos
-* [EC330 - repo used to track files used for my assignments](https://github.com/pdvnny/pdvnny)
+* [EC330 - repo used to track files used for my assignments](https://github.com/pdvnny/EC330)
 * 
 
 

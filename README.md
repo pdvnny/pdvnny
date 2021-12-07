@@ -16,6 +16,23 @@ I am a student at Boston University (BU) where I am working on completing a Mast
 
 My degree at BU will be a little longer than a normal Master's program. Until 2021, I was a chemist. I studied chemistry at Stonehill College and worked at PerkinElmer Health Sciences afterwards, but realized I wanted to work in a different field in the long-term. Instead of gradually making up some classes to enroll directly in a Master's program at BU, I started as a LEAP student at BU ([LEAP program](https://engineering.bu.edu/leap-lp/)). After a couple semesters of "catch up" courses, I will be starting as a Master's candidate with other computer engineering students pursuing a Master's degree.
 
+### Links to repos
+
+__Personal Projects__
+* [Pet Classification Machine Learning Challenge](https://github.com/pdvnny/pdvnny)
+* [Sudoku Game in Python - In Development](https://github.com/pdvnny/pdvnny)
+
+
+Algorithms and Data Structures Repos
+* [Data Structures and Algorithms from EC330](https://github.com/pdvnny/EC330-Algos-DataStructures-Cpp)
+* [Trie Data Structure for Pattern Matching]
+
+
+Repos for a class on Intro to Software Eng. (EC327)
+* [blokus game](https://github.com/pdvnny/EC327_HW4_blokus)
+* [SFML graphics clock](https://github.com/pdvnny/EC327-HW2-Adjustable-Clock)
+* [Final Project - Calendar application with Team](https://github.com/brianhmj/BU_EC327_FinalProject)
+
 ### Interests
 
 I feel like I am still just beginning to uncover what I want to work on in the long-term because there is still lots to learn about modern analytics and the future of the field.
@@ -33,23 +50,6 @@ My focus right now is to do many projects that demonstrate what I am learning in
 I am learning probability and statistics, Python, R, and machine learning on my personal time for my personal projects.
 
 My current classes at BU focus on probability and statistics (MATLAB), more fundamental mathematics, algorithms and data structures (C++), and computer logic and design.
-
-### Links to repos
-
-__Personal Projects__
-* [Pet Classification Machine Learning Challenge](https://github.com/pdvnny/pdvnny)
-* [Sudoku Game in Python - In Development](https://github.com/pdvnny/pdvnny)
-
-
-Algorithms and Data Structures Repos
-* [EC330 - repo used to track files used for my assignments](https://github.com/pdvnny/EC330)
-* 
-
-
-Repos for a class on Intro to Software Eng. (EC327)
-* [blokus game](https://github.com/pdvnny/EC327_HW4_blokus)
-* [SFML graphics clock](https://github.com/pdvnny/EC327-HW2-Adjustable-Clock)
-* [Final Project - create application with group](https://github.com/brianhmj/BU_EC327_FinalProject)
 
 
 

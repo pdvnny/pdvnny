@@ -19,7 +19,7 @@ My degree at BU will be a little longer than a normal Master's program. Until 20
 ### Links to repos
 
 __Personal Projects__
-* [Pet Classification Machine Learning Challenge](https://github.com/pdvnny/pdvnny) -- Link coming soon
+* [Pet Classification Machine Learning Challenge - *still working on finishing touches*](https://github.com/pdvnny/Pet-Image-Classification)(Active)
 * [Sudoku Game in Python - *in Development*](https://github.com/pdvnny/pdvnny)  -- Link coming soon
 * [Data Scientist Learning Path on Codecademy.com](https://github.com/pdvnny/Codecademy-DataScientist) (Active)
   * [Analyzing Data - Subset of Above](https://github.com/pdvnny/Codecademy-AnalyzeDatawithPython) (Active)

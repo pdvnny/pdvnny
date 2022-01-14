@@ -36,6 +36,9 @@ Repos for a class on Intro to Software Eng. (EC327)
 * [SFML graphics clock](https://github.com/pdvnny/EC327-HW2-Adjustable-Clock)
 * [Final Project - Calendar application with Team](https://github.com/brianhmj/BU_EC327_FinalProject)
 
+Repos for my first programming course at Boston University (EK125)
+* [Intro to ML & Big Data final project](https://github.com/pdvnny/StrokePrediction)
+
 ### Interests
 
 I feel like I am still just beginning to uncover what I want to work on in the long-term because there is still lots to learn about modern analytics and the future of the field.

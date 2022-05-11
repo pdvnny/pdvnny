@@ -16,7 +16,39 @@ I am a student at Boston University (BU) where I am working on completing a Mast
 
 My degree at BU will be a little longer than a normal Master's program. Until 2021, I was a chemist. I studied chemistry at Stonehill College and worked at PerkinElmer Health Sciences afterwards, but realized I wanted to work in a different field in the long-term. Instead of gradually making up some classes to enroll directly in a Master's program at BU, I started as a LEAP student at BU ([LEAP program](https://engineering.bu.edu/leap-lp/)). After a couple semesters of "catch up" courses, I will be starting as a Master's candidate with other computer engineering students pursuing a Master's degree.
 
-# Addiitonal Information and Links to Repos
+# Links to Repos
+
+__Personal Projects__
+* [Pet Classification Machine Learning Challenge - *still working on finishing touches*](https://github.com/pdvnny/Pet-Image-Classification)(Active)
+* [Sudoku Game in Python - *in Development*](https://github.com/pdvnny)  -- Link coming soon
+* [Data Scientist Learning Path on Codecademy.com](https://github.com/pdvnny/Codecademy-DataScientist) (Active)
+  * [Analyzing Data - Subset of Above](https://github.com/pdvnny/Codecademy-AnalyzeDatawithPython) (Active)
+
+Spring 2022 Project Repositories
+* [Priority Queues for Dijkstra's Single Source Shortest Path Algorithm](https://github.com/bmkuter/504_Dijkstra_Heaps)
+Description: I worked on a project for my Advanced Data Structures and Algorithms course where each person in our group implemented a modern heap for the Dijkstra's algorithm. My role was to implement a rank-pairing heap. This heap is designed for Dijkstra's algorithm because it has constant ($O(1)$) run time for decreasing keys and inserting elements in the priority queue. In addition to implementing four heaps, the group analyzed the runtime of our implementations for Dijkstra's algorithm.
+* [Multiclass SVM Approaches for Large Multiclass Problems](https://github.com/jwbiernacki/EC-503-Machine-Learning)
+Description: I worked on a project for a machine learning course where my group set out to implement multiclass support vector machine (SVM) classifiers found in literature - the paper that we used as a template for our implementations is below. Since SVMs are binary classifiers, multiclass classification tasks require additional steps to use them for multiclass tasks. This repo implements four multiclass SVM approaches on multiple datasets and compares the implementations success on multiple datasets.
+
+*Multiclass SVM Reference*: Chih-Wei Hsu and Chih-Jen Lin, "A comparison of methods for multiclass support vector machines," in
+IEEE Transactions on Neural Networks, vol. 13, no. 2, pp. 415-425, March 2002, doi: 10.1109/72.991427.
+
+Algorithms and Data Structures Repos
+* [Data Structures and Algorithms from EC330](https://github.com/pdvnny/EC330-Algos-DataStructures-Cpp)
+* [Data Structures/Algos Developed on my Own](https://github.com/pdvnny/DataStructures-Algorithms)
+  * [Trie Data Structure for Pattern Matching](https://github.com/pdvnny/DataStructures-Algorithms/tree/main/TrieStructure-PatternMatching)
+
+
+Repos for a class on Intro to Software Eng. (EC327)
+* [blokus game](https://github.com/pdvnny/EC327_HW4_blokus)
+* [SFML graphics clock](https://github.com/pdvnny/EC327-HW2-Adjustable-Clock)
+* [Final Project - Calendar application with Team](https://github.com/brianhmj/BU_EC327_FinalProject)
+
+Repos for my first programming course at Boston University (EK125)
+* [Intro to ML & Big Data final project](https://github.com/pdvnny/StrokePrediction)
+
+
+# Addiitonal Information
 
 ### Interests
 
@@ -60,31 +92,6 @@ This includes courses that I have taken at BU as well as topics that I have lear
 * Data Structures
 * Data Visualization - matplotlib, seaborn, and (some) ggplot2
 * Operating Systems
-
-### Links to repos
-
-__Personal Projects__
-* [Pet Classification Machine Learning Challenge - *still working on finishing touches*](https://github.com/pdvnny/Pet-Image-Classification)(Active)
-* [Sudoku Game in Python - *in Development*](https://github.com/pdvnny)  -- Link coming soon
-* [Data Scientist Learning Path on Codecademy.com](https://github.com/pdvnny/Codecademy-DataScientist) (Active)
-  * [Analyzing Data - Subset of Above](https://github.com/pdvnny/Codecademy-AnalyzeDatawithPython) (Active)
-
-
-Algorithms and Data Structures Repos
-* [Data Structures and Algorithms from EC330](https://github.com/pdvnny/EC330-Algos-DataStructures-Cpp)
-* [Data Structures/Algos Developed on my Own](https://github.com/pdvnny/DataStructures-Algorithms)
-  * [Trie Data Structure for Pattern Matching](https://github.com/pdvnny/DataStructures-Algorithms/tree/main/TrieStructure-PatternMatching)
-
-
-Repos for a class on Intro to Software Eng. (EC327)
-* [blokus game](https://github.com/pdvnny/EC327_HW4_blokus)
-* [SFML graphics clock](https://github.com/pdvnny/EC327-HW2-Adjustable-Clock)
-* [Final Project - Calendar application with Team](https://github.com/brianhmj/BU_EC327_FinalProject)
-
-Repos for my first programming course at Boston University (EK125)
-* [Intro to ML & Big Data final project](https://github.com/pdvnny/StrokePrediction)
-
-
 
 
 <!--

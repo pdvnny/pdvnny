@@ -25,9 +25,9 @@ __Personal Projects__
   * [Analyzing Data - Subset of Above](https://github.com/pdvnny/Codecademy-AnalyzeDatawithPython) (Active)
 
 Spring 2022 Project Repositories
-* [Priority Queues for Dijkstra's Single Source Shortest Path Algorithm](https://github.com/bmkuter/504_Dijkstra_Heaps)
+* [Priority Queues for Dijkstra's Single Source Shortest Path Algorithm](https://github.com/bmkuter/504_Dijkstra_Heaps)  
 Description: I worked on a project for my Advanced Data Structures and Algorithms course where each person in our group implemented a modern heap for the Dijkstra's algorithm. My role was to implement a rank-pairing heap. This heap is designed for Dijkstra's algorithm because it has constant ($O(1)$) run time for decreasing keys and inserting elements in the priority queue. In addition to implementing four heaps, the group analyzed the runtime of our implementations for Dijkstra's algorithm.
-* [Multiclass SVM Approaches for Large Multiclass Problems](https://github.com/jwbiernacki/EC-503-Machine-Learning)
+* [Multiclass SVM Approaches for Large Multiclass Problems](https://github.com/jwbiernacki/EC-503-Machine-Learning)  
 Description: I worked on a project for a machine learning course where my group set out to implement multiclass support vector machine (SVM) classifiers found in literature - the paper that we used as a template for our implementations is below. Since SVMs are binary classifiers, multiclass classification tasks require additional steps to use them for multiclass tasks. This repo implements four multiclass SVM approaches on multiple datasets and compares the implementations success on multiple datasets.
 
 *Multiclass SVM Reference*: Chih-Wei Hsu and Chih-Jen Lin, "A comparison of methods for multiclass support vector machines," in
